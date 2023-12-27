@@ -6,7 +6,7 @@ Cloud & Cyber Security Student
 
 I'm a student delving into the exciting domains of cloud computing, cybersecurity, and programming. I thrive on securing cloud infrastructures and unraveling the interconnected world of IoT and electronics. Whether I'm scripting solutions or tinkering with hardware, I'm passionate about merging technology's possibilities.
 
-* 🌍  I'm based in Belgium 🇧🇪
+* 🌍  I'm based in Belgium ![Belgium](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/be.png "Belgium")
 * 🖥️  See my portfolio at [mathiaswouters.com](http://www.mathiaswouters.com/)
 * ✉️  You can contact me at [matiwouters@gmail.com](mailto:matiwouters@gmail.com)
 * 🚀  I'm currently working on [This](http://www.mathiaswouters.com/)

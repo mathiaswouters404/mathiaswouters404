@@ -9,7 +9,7 @@ I'm a student delving into the exciting domains of cloud computing, cybersecurit
 * 🌍  I'm based in Belgium ![Belgium](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/be.png "Belgium")
 * 🖥️  See my portfolio at [mathiaswouters.com](http://www.mathiaswouters.com/)
 * ✉️  You can contact me at [matiwouters@gmail.com](mailto:matiwouters@gmail.com)
-* 🚀  I'm currently working on [my homelab]([http://www.mathiaswouters.com/](https://github.com/mathiaswouters404/homelab))
+* 🚀  I'm currently working on my [homelab]([http://www.mathiaswouters.com/](https://github.com/mathiaswouters404/homelab))
 * 🧠  I'm learning AWS, Azure, Terraform, Kubernetes, ...
 * 🤝  I'm open to collaborating on cloud projects
 
